@@ -1,5 +1,3 @@
-import React from "react";
-
 const ShoppingHeader = () => {
   return <div>ShoppingHeader</div>;
 };
